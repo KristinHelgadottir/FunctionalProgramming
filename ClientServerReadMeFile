@@ -1,0 +1,7 @@
+
+I had to make the two methods in seperat classes.
+
+I made my Server in java it has two REST methods. I tested with postman, both methods work there.
+
+MyCount.elm gets the gount (in the console) when you push Get Count.
+Client.elm Will not allow me to put anything through the put method, I keep getting the acces-control-allow-header error.
